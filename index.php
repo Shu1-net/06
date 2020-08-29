@@ -91,3 +91,10 @@ echo '<br>';
 // 商品の情報表示を表示
 echo $item1->infomation();
 echo '<br>';
+
+
+
+
+
+
+echo "文字追加";
